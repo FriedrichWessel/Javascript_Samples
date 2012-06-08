@@ -1,0 +1,3 @@
+interface IShowable{
+  void showElement(); 
+} 

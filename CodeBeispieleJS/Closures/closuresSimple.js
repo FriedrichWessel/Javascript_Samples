@@ -1,3 +1,4 @@
+
 function createIterator() {
 	var list = ["Sullivan", "Randall", "Mike"];
 	var i = 0;

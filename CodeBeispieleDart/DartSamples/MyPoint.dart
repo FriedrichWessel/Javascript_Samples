@@ -5,6 +5,7 @@ class MyPoint implements IShowable{
   MyPoint(_x,_y){
     this.x = _x; 
     this.y = _y; 
+    num x= "hallo";
   }
   MyPoint.zero() : x = 0, y = 1; 
     

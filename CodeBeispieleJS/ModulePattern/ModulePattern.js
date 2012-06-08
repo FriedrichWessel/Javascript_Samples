@@ -1,6 +1,7 @@
 //Global Import :
 //Benutzen um Globale Variablen explizit zu setzen und nicht implizit anzunehmen
 (function ($, YAHOO) {
+
 	// now have access to globals jQuery (as $) and YAHOO in this code
 }(jQuery, YAHOO));
 

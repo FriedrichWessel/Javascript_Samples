@@ -12,9 +12,11 @@ function setupMonsters() {
 	for (var i = 0; i < monsters.length; i++) {
 		var monster = monsters[i];
 		document.getElementById(monster.id).innerHTML = monster.name;
-		document.getElementById(monster.id).onclick  = function(){
-			showName(monster);
-		};
+		document.getElementById(monster.id).onclick  = function(monster){
+			return function(){
+				showName(monster);
+			}
+		}(monster);
 	}
 
 }

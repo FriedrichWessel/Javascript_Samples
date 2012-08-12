@@ -22,91 +22,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Chaining.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chaining/Chaining.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="10" selection-start="126" selection-end="130" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bool.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bool/Bool.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="26" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ModulePattern.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ModulePattern/ModulePattern.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="5" selection-start="1624" selection-end="1624" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jQuery.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jQuery/jQuery.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="104" column="32" selection-start="2936" selection-end="2936" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jQuerySimple.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jQuery/jQuerySimple.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="16" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimpleInheritance.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SimpleInheritance/SimpleInheritance.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="9" selection-start="348" selection-end="348" vertical-scroll-proportion="0.6271777">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SimpleInheritance/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="60" selection-start="194" selection-end="194" vertical-scroll-proportion="-3.75">
+            <state line="6" column="45" selection-start="179" selection-end="179" vertical-scroll-proportion="-3.75">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jQueryAnimation.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jQuery/jQueryAnimation.js">
+      <file leaf-file-name="Class.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SimpleInheritance/Class.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="8" selection-start="1221" selection-end="1221" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jQuery/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ClosuresInLoops/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="23" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="1523" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -131,8 +59,11 @@
         <option value="$PROJECT_DIR$/ClosuresInLoops/ClosuresInLoops.js" />
         <option value="$PROJECT_DIR$/ModulePattern/ModulePattern.js" />
         <option value="$PROJECT_DIR$/jQuery/jQueryAnimation.js" />
-        <option value="$PROJECT_DIR$/SimpleInheritance/index.html" />
         <option value="$PROJECT_DIR$/SimpleInheritance/SimpleInheritance.js" />
+        <option value="$PROJECT_DIR$/SimpleInheritance/SimpleInheritanceClass.js" />
+        <option value="$PROJECT_DIR$/SimpleInheritance/index.html" />
+        <option value="$PROJECT_DIR$/SimpleInheritance/SimpleInheritanceMP.js" />
+        <option value="$PROJECT_DIR$/SimpleInheritance/Class.js" />
       </list>
     </option>
   </component>
@@ -167,7 +98,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -370,21 +300,32 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="preferences.externalResources" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/SimpleInheritance" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugSession" factoryName="Local" temporary="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" value="file://$PROJECT_DIR$/SimpleInheritance/index.html" />
+      </JSDebuggerConfigurationSettings>
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
       <JSDebuggerConfigurationSettings>
         <option name="engineId" value="embedded" />
@@ -392,7 +333,9 @@
       </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
-    <list size="0" />
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -411,7 +354,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25487012" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25974026" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -478,21 +421,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Prototypes/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Prototypes/Child.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="32" selection-start="251" selection-end="252" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Closures/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Prototypes/Creature.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="8" selection-start="76" selection-end="80" vertical-scroll-proportion="0.0" />
@@ -518,14 +446,14 @@
         <state line="13" column="26" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ModulePattern/ModulePattern.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="5" selection-start="1624" selection-end="1624" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jQuery/jQuery.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="104" column="32" selection-start="2936" selection-end="2936" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jQuery/jQuerySimple.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="16" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jQuery/jQueryAnimation.js">
@@ -540,28 +468,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ClosuresInLoops/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="23" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="10" column="23" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery/jQuerySimple.js">
+    <entry file="file://$PROJECT_DIR$/ModulePattern/ModulePattern.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="16" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleInheritance/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="60" selection-start="194" selection-end="194" vertical-scroll-proportion="-3.75">
+        <state line="85" column="35" selection-start="1702" selection-end="1702" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SimpleInheritance/SimpleInheritance.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="9" selection-start="348" selection-end="348" vertical-scroll-proportion="0.6271777">
+        <state line="21" column="30" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleInheritance/SimpleInheritanceMP.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="17" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleInheritance/SimpleInheritanceClass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="43" selection-start="526" selection-end="526" vertical-scroll-proportion="0.5033557">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleInheritance/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="45" selection-start="179" selection-end="179" vertical-scroll-proportion="-3.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleInheritance/Class.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="1523" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
